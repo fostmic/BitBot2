@@ -1,0 +1,268 @@
+8/17/2015 6:35:30 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191204688
+8/17/2015 6:39:18 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191207688
+8/17/2015 6:41:36 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191210688
+8/17/2015 6:46:21 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191213688
+8/17/2015 6:46:23 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191216688
+8/17/2015 6:47:52 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191219688
+8/17/2015 6:53:23 PM Error deserializing websocket message JSON.  Message: {"type":"done","order_type":"limit","side":"sell","sequence":191220314,"order_id":bf8be-2b98-4dc8-a308-57c28339271f","remaining_size":"0.94","product_id":"BTC-USD","time":"2015-08-17T23:48:16.768911Z"}
+8/17/2015 6:53:23 PM Error deserializing websocket message JSON.  Message: "c0271eff-9921-41e4-b04c-3ed2a3884255","reason":"canceled","product_id":"BTC-USD","time":"2015-08-17T23:48:16.786643Z","price":"258.31","remaining_size":"0.17"}
+8/17/2015 6:53:23 PM Error: sequence number missing.  Number: 191220315 expected: 191220314
+8/17/2015 6:53:23 PM Error deserializing websocket message JSON.  Message: {"type":"open","sequence":191220326,"side":"sell","price":"258.2","order_id":"804ddb51-ffba-4e82-bf5d-a8a9e38fda76","remaining_size":"0.37","product_id":"BTC-USD","time":"2015-08-17T23:48:16,"time":"2015-08-17T23:48:16.923035Z"}
+8/17/2015 6:53:23 PM Error deserializing websocket message JSON.  Message: .923115Z"}
+8/17/2015 6:53:23 PM Error: sequence number missing.  Number: 191220327 expected: 191220326
+8/17/2015 6:53:23 PM Error removing order from "sell" order book.  OID: 804ddb51-ffba-4e82-bf5d-a8a9e38fda76 Price: 258.2
+8/17/2015 6:53:24 PM Error deserializing websocket message JSON.  Message: {"type":"done","order_type":"limit","side":"sell","sequence":191221884,"order_id":"25792d1e-00d8-4b5a-bab1-29d0b2390e8b","reason":ze":"1.7","product_id":"BTC-USD","time":"2015-08-17T23:48:42.840557Z"}
+8/17/2015 6:53:24 PM Error deserializing websocket message JSON.  Message: "canceled","product_id":"BTC-USD","time":"2015-08-17T23:48:42.860869Z","price":"258.17","remaining_size":"8.17"}
+8/17/2015 6:53:24 PM Error: sequence number missing.  Number: 191221885 expected: 191221884
+8/17/2015 6:53:25 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191222688
+8/17/2015 6:53:26 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191225688
+8/17/2015 6:53:27 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191227427,"order_id":"0eba0fe8-362f-40b5-a67f-bb0b651190f8","reason":"filled","product_id":"BTC-USD","time":"2015-08-17T23:50:37.478162Z"}
+8/17/2015 6:53:28 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191228688
+8/17/2015 6:53:30 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191231688
+08/17/2015 06:53:31.814:  Old orderbook does not match new orderbook during scheduled full reload.  Details in ErrorReport_08172015-185331.txt, OrderBookOld_ErrorReport_08172015-185331.txt, OrderBookNew_ErrorReport_08172015-185331.txt, Messages_ErrorReport_08172015-185331.txt
+8/17/2015 6:53:32 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191234688
+8/17/2015 6:54:30 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"limit","side":"buy","sequence":191237580,"order_id":"927df630-dbc9-48a4-904b-5e30154226fd","reason":"canceled","product_id":"BTCBTC-USD","time":"2015-08-17T23:54:46.907994Z"}
+8/17/2015 7:00:26 PM:  Error getting order book.
+8/17/2015 7:00:26 PM Error deserializing websocket message JSON.  Message: -USD","time":"2015-08-17T23:54:46.937028Z","price":"257.1","remaining_size":"1.36"}
+8/17/2015 7:00:26 PM Error deserializing websocket message JSON.  Message: {"type":"done","order_type":"limit","side":"sell","sequence":1952","order_id":"837b9ece-7e86-4795-af04-af8c6fc8717c","remaining_size":"0.386","product_id":"BTC-USD","time":"2015-08-17T23:57:18.210394Z"}
+8/17/2015 7:00:26 PM Error deserializing websocket message JSON.  Message: 1244687,"order_id":"ae1f78d7-8059-4aa3-9394-fc6a353209e3","reason":"canceled","product_id":"BTC-USD","time":"2015-08-17T23:57:18.216729Z","price":"257.9","remaining_size":"7.23"}
+8/17/2015 7:01:53 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191258324
+8/17/2015 7:07:30 PM Error deserializing websocket message JSON.  Message: {"type":"received","sequence":191258642,"order_id":"a4d96529-1cfc-4219-9e9d-81e1bd"ab211a66-a1b6-4f67-b136-6e5194a41a9a","reason":"canceled","product_id":"BTC-USD","time":"2015-08-18T00:02:18.292569Z","price":"258.33","remaining_size":"9.315"}
+8/17/2015 7:07:30 PM Error deserializing websocket message JSON.  Message: 2c1c7e","order_type":"limit","size":"0.86","price":"256.92","side":"buy","funds":null,"product_id":"BTC-USD","time":"2015-08-18T00:02:18.300911Z"}
+8/17/2015 7:07:30 PM Error: sequence number missing.  Number: 191258643 expected: 191258642
+8/17/2015 7:07:30 PM Error removing order from "buy" order book.  OID: a4d96529-1cfc-4219-9e9d-81e1bd2c1c7e Price: 256.92
+8/17/2015 7:07:31 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191261324
+8/17/2015 7:07:33 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191263678,"order_id":"35167a2d-5d30-4e69-92d4-5f99bf6b7464","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:04:59.424078Z"}
+8/17/2015 7:07:33 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191264324
+8/17/2015 7:07:34 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191266768,"order_id":"8e5cc44e-a5f2-4401-8955-7af1d404b64a","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:07:33.048629Z"}
+8/17/2015 7:07:35 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191267324
+8/17/2015 7:08:11 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191268778,"order_id":"64ef01e2-7408-43f7-afd5-abcb3926b263","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:08:27.685665Z"}
+8/17/2015 7:15:51 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191286435
+8/17/2015 7:21:36 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191287459,"order_id":"a3f97a51-8376-4b79-841d-1c894cb861ae","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:16:32.335406Z"}
+8/17/2015 7:21:37 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191289435
+8/17/2015 7:21:37 PM Error deserializing websocket message JSON.  Message: {"type":"receivesequence":191289890,"side":"buy","price":"257.21","order_id":"aa591ccb-3906-4dc6-9654-be1b3d9714e2","remaining_size":"1","product_id":"BTC-USD","time":"2015-08-18T00:17:43.571798Z"}
+8/17/2015 7:21:37 PM Error deserializing websocket message JSON.  Message: d","sequence":191289891,"order_id":"ec9a10d1-ba34-44ad-9277-594e88b7380d","order_type":"limit","size":"1.69","price":"259.13","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-18T00:17:43.640788Z"}
+8/17/2015 7:21:37 PM Error: sequence number missing.  Number: 191289892 expected: 191289891
+8/17/2015 7:21:38 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191292435
+8/17/2015 7:21:40 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191295435
+8/17/2015 7:21:42 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191298435
+8/17/2015 7:21:43 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191301435
+08/17/2015 07:21:44.250:  Old orderbook does not match new orderbook during scheduled full reload.  Details in ErrorReport_08172015-192144.txt, OrderBookOld_ErrorReport_08172015-192144.txt, OrderBookNew_ErrorReport_08172015-192144.txt, Messages_ErrorReport_08172015-192144.txt
+8/17/2015 7:22:39 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191304435
+8/17/2015 7:28:40 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191307435
+8/17/2015 7:28:42 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191310435
+8/17/2015 7:28:42 PM Error deserializing websocket message JSON.  Message: {"type":"open","sequence":191310519,"side":"sell","price":"257.78","order_id":"aff70f6d-9c74-4fcf-885a-0559b3bf42c6","remaining_size":"0.03472451","product_id":"BTC-USD","time":"2015-08-18T00:24:19.36ime":"2015-08-18T00:24:19.365744Z"}
+8/17/2015 7:28:42 PM Error deserializing websocket message JSON.  Message: 5848Z"}
+8/17/2015 7:28:42 PM Error: sequence number missing.  Number: 191310520 expected: 191310519
+8/17/2015 7:28:42 PM Error removing order from "sell" order book.  OID: aff70f6d-9c74-4fcf-885a-0559b3bf42c6 Price: 257.78
+8/17/2015 7:28:42 PM Error deserializing websocket message JSON.  Message: d9a","order_type":"limit","size":"0.03472451","price":"258.03","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-18T00:24:26.942004Z"}
+8/17/2015 7:28:43 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191313435
+8/17/2015 7:28:45 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191316435
+8/17/2015 7:28:47 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191319435
+8/17/2015 7:28:48 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191322435
+8/17/2015 7:28:50 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191325435
+8/17/2015 7:28:51 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191327328,"order_id":"9ceb0494-56c6-43c4-9a1f-ec595aa6ab03","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:28:54.687382Z"}
+8/17/2015 7:29:01 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191328435
+8/17/2015 7:35:43 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191331435
+8/17/2015 7:35:44 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"sell","sequence":191332154,"order_id":"9afd89e3-74fd-46ff-ad28-710208905e12","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:30:16.296524Z"}
+8/17/2015 7:35:45 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191334435
+8/17/2015 7:35:47 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191337435
+8/17/2015 7:35:48 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191340435
+8/17/2015 7:35:50 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191343435
+8/17/2015 7:35:52 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191346435
+8/17/2015 7:35:53 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191348991,"order_id":"883a9bd1-24dc-4939-8cdc-ec67f1cc53ed","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:35:17.168412Z"}
+8/17/2015 7:35:53 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191349435
+8/17/2015 7:36:07 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191352435
+8/17/2015 7:42:45 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191352500,"order_id":"1cce76c8-4ca0-4d97-b518-ec97d8ddd871","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:36:25.003768Z"}
+8/17/2015 7:42:45 PM Error deserializing websocket message JSON.  Message: {"type":"received","sequence":1913533side":"buy","price":"256.94","order_id":"36b39452-8859-42b8-b5e6-302eb1cfece5","remaining_size":"0.8524","product_id":"BTC-USD","time":"2015-08-18T00:36:43.896205Z"}
+8/17/2015 7:42:45 PM Error deserializing websocket message JSON.  Message: 88,"order_id":"33b6ec7f-38e7-485f-badc-9379191c1b35","order_type":"limit","size":"0.106","price":"257.43","side":"buy","funds":null,"product_id":"BTC-USD","time":"2015-08-18T00:36:43.938852Z"}
+8/17/2015 7:42:45 PM Error: sequence number missing.  Number: 191353389 expected: 191353388
+8/17/2015 7:42:46 PM Error deserializing websocket message JSON.  Message: 62e-472a-9a56-3cfc4cd91712","order_type":"limit","size":"0.0289806","price":"257.85","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-18T00:37:14.163843Z"}
+8/17/2015 7:42:47 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191355435
+8/17/2015 7:42:47 PM Error removing order from "buy" order book.  OID: 33b6ec7f-38e7-485f-badc-9379191c1b35 Price: 257.43
+8/17/2015 7:42:47 PM Error deserializing websocket message JSON.  Message: 502Z"}
+8/17/2015 7:42:48 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191358435
+8/17/2015 7:42:50 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191361435
+8/17/2015 7:42:51 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191364435
+8/17/2015 7:42:53 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191367435
+8/17/2015 7:42:54 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191370435
+8/17/2015 7:42:56 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191373435
+8/17/2015 7:43:26 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191376435
+8/17/2015 7:49:50 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191379435
+8/17/2015 7:49:52 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191382435
+8/17/2015 7:49:53 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191385435
+8/17/2015 7:49:54 PM Error deserializing websocket message JSON.  Message: {"type":"received","sequence":191385988,"ordeell","price":"257.79","order_id":"991bd4a2-4e96-4077-ade5-1bb65cf82c20","remaining_size":"0.03307613","product_id":"BTC-USD","time":"2015-08-18T00:46:45.325372Z"}
+8/17/2015 7:49:54 PM Error deserializing websocket message JSON.  Message: r_id":"989eb355-4224-464f-8c7d-455d61285a9c","order_type":"limit","size":"0.03307613","price":"257.82","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-18T00:46:45.331352Z"}
+8/17/2015 7:49:54 PM Error: sequence number missing.  Number: 191385989 expected: 191385988
+8/17/2015 7:49:54 PM Error removing order from "sell" order book.  OID: f009addd-9148-482e-9770-177d23612e4b Price: 257.79
+8/17/2015 7:49:54 PM Error deserializing websocket message JSON.  Message: ice":"257.73","remaining_size":"0.04"}
+8/17/2015 7:49:54 PM Error removing order from "sell" order book.  OID: 989eb355-4224-464f-8c7d-455d61285a9c Price: 257.82
+8/17/2015 7:49:55 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191388435
+8/17/2015 7:49:56 PM Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":191389603,"order_id":"523ced13-bdc2-4baa-961a-e289d60d43f3","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T00:48:07.668448Z"}
+8/17/2015 7:49:57 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191391435
+8/17/2015 7:49:58 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191394435
+08/17/2015 07:49:59.007:  Old orderbook does not match new orderbook during scheduled full reload.  Details in ErrorReport_08172015-194959.txt, OrderBookOld_ErrorReport_08172015-194959.txt, OrderBookNew_ErrorReport_08172015-194959.txt, Messages_ErrorReport_08172015-194959.txt
+8/17/2015 7:50:45 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191397435
+8/17/2015 7:56:53 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191400435
+8/17/2015 7:56:55 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191403435
+8/17/2015 7:56:57 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191406435
+8/17/2015 7:56:58 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191409435
+8/17/2015 7:57:00 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191412435
+8/17/2015 7:58:01 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191415435
+8/17/2015 8:03:55 PM:  Error getting order book.
+08/17/2015 08:03:55.290 Error getting new order book JSON during scheduled reload.  Waiting 60 seconds to try again.
+8/17/2015 8:04:57 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191418435
+8/17/2015 8:04:59 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191421435
+8/17/2015 8:05:01 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191424435
+8/17/2015 8:05:02 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191427435
+8/17/2015 8:05:04 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191430435
+8/17/2015 8:05:06 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191433435
+8/17/2015 8:05:07 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191436435
+8/17/2015 8:05:24 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191439435
+8/17/2015 8:11:00 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191442435
+8/17/2015 8:11:02 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191445435
+8/17/2015 8:11:04 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191448435
+8/17/2015 8:11:05 PM Error deserializing websocket message JSON.  Message: {"type":"open","sequence":191450243,"side":"sell","price":"257.98","order_id":"a0004c28-c26d-4267-900f-f147a158fb0b","remainin721","price":"257.98","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-18T01:08:40.377008Z"}
+8/17/2015 8:11:05 PM Error deserializing websocket message JSON.  Message: g_size":"0.08911721","product_id":"BTC-USD","time":"2015-08-18T01:08:40.37711Z"}
+8/17/2015 8:11:05 PM Error: sequence number missing.  Number: 191450244 expected: 191450243
+8/17/2015 8:11:05 PM Error removing order from "sell" order book.  OID: a0004c28-c26d-4267-900f-f147a158fb0b Price: 257.98
+8/17/2015 8:11:05 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191451435
+8/17/2015 8:11:07 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191454435
+8/17/2015 8:11:09 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191457435
+08/17/2015 08:11:10.539:  Old orderbook does not match new orderbook during scheduled full reload.  Details in ErrorReport_08172015-201110.txt, OrderBookOld_ErrorReport_08172015-201110.txt, OrderBookNew_ErrorReport_08172015-201110.txt, Messages_ErrorReport_08172015-201110.txt
+8/17/2015 8:11:10 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191460435
+8/17/2015 8:11:54 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191463435
+8/17/2015 8:18:03 PM Error deserializing websocket message JSON.  Message: 2:35.406857Z"}
+8/17/2015 8:18:04 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191466435
+8/17/2015 8:18:04 PM Error deserializing websocket message JSON.  Message: {"type":"received","sequence":191467119,"order_id":"4c407f01-eee4-4e47-r_id":"626f9660-e1bf-4729-8b84-13f9c6a433ce","remaining_size":"0.15573997","product_id":"BTC-USD","time":"2015-08-18T01:13:07.148373Z"}
+8/17/2015 8:18:04 PM Error deserializing websocket message JSON.  Message: 9a3d-6ad62c8e6cc3","order_type":"limit","size":"0.15573997","price":"257.36","side":"buy","funds":null,"product_id":"BTC-USD","time":"2015-08-18T01:13:07.151769Z"}
+8/17/2015 8:18:04 PM Error: sequence number missing.  Number: 191467120 expected: 191467119
+8/17/2015 8:18:04 PM Error deserializing websocket message JSON.  Message: -1ea5-4229-bee0-67367c55f6d6","order_type":"limit","size":"0.11579914","price":"257.83","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-18T01:13:07.211016Z"}
+8/17/2015 8:18:04 PM Error removing order from "buy" order book.  OID: 4c407f01-eee4-4e47-9a3d-6ad62c8e6cc3 Price: 257.36
+8/17/2015 8:18:06 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191469435
+8/17/2015 8:18:07 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191472435
+8/17/2015 8:18:09 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191475435
+8/17/2015 8:18:11 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191478435
+8/17/2015 8:18:12 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191481435
+8/17/2015 8:18:14 PM Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191484435
+8/17/2015 8:18:24 PM Error parsing "open" websocket message amount and price.  Message: {"type":"open","sequence":191485477,"side":"buy","price":"257.37","order_id":"4c1176449d","order_type":"limit","size":"0.17474996","price":"257.37","side":"buy","funds":null,"product_id":"BTC-USD","time":"2015-08-18T01:18:40.326645Z"}
+8/17/2015 8:25:05 PM Error deserializing websocket message JSON.  Message: 70e-93f1-4e5e-a6bb-380af1d6449d","remaining_size":"0.17474996","product_id":"BTC-USD","time":"2015-08-18T01:18:40.326753Z"}
+8/17/2015 8:25:05 PM Error deserializing websocket message JSON.  Message: 4b7379","remaining_size":"0.09678839","product_id":"BTC-USD","time":"2015-08-18T01:18:40.454414Z"}
+8/17/2015 8:25:06 PM Error deserializing websocket message JSON.  Message: {"type":"received","sequence":191501565,"order_id":"e6ad7ea0-3afe-48ea-9966-7791e2bc2435","or4324-9a2d-9bf6cc36883d","remaining_size":"0.17","product_id":"BTC-USD","time":"2015-08-18T01:24:34.89008/17/2015 09:44:48.284 Error: sequence number missing.  Number: 191693525 expected: 191693521
+08/17/2015 09:50:55.768 Error: sequence number missing.  Number: 191710073 expected: 191710071
+08/17/2015 09:58:43.918 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191733849
+08/17/2015 10:04:58.081:  Error getting order book.
+08/17/2015 10:04:58.082 Error getting new order book JSON during scheduled reload.  Waiting 60 seconds to try again.
+08/17/2015 10:06:01.011 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191736849
+08/17/2015 10:06:28.931 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191760849
+08/17/2015 10:12:03.069 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191763849
+08/17/2015 10:12:50.721 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191778849
+08/17/2015 10:19:07.593 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 191781849
+08/17/2015 10:19:07.685 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":191785078,"order_id":"1c70580c-a885-4332-8983-9a87959fba9a","order_type":"limit","size":"0.18","price":"256.72","side":"sell","funds":null,"product_id"T03:15:42.036094Z","price":"256.21","remaining_size":"0.18680746"}
+08/17/2015 10:26:09.970 Error deserializing websocket message JSON.  Message: :"BTC-USD","time":"2015-08-18T03:15:42.047379Z"}
+08/17/2015 10:33:12.937 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":191785125,"order_id":"8b144643-a934-4099-ad69-6:"27cbdaa4-b1d3-4127-851b-65609c9bb0db","remaining_size":"0.73","product_id":"BTC-USD","time":"2015-08-18T03:15:42.329462Z"}
+08/17/2015 10:40:16.110 Error deserializing websocket message JSON.  Message: 717dc1576f5","order_type":"limit","size":"1.13","price":"256.71","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-18T03:15:42.372474Z"}
+08/17/2015 10:47:20.713 Error deserializing websocket message JSON.  Message: {"type":"done",08/18/2015 06:06:01.207 Error deserializing websocket message JSON.  Message: {"type":"done","order_type":"limit","side":"buy","sequence":195120919,"order_id":"958a6946-b036-473b-bf56-7b9a78bab486","reason":"canceled","product_id":"BTC-USD","time":"2015-08-18T23:06:19.233514Z","price":"249.24","remain"product_id":"BTC-USD","time":"2015-08-18T23:06:19.199019Z"}
+08/18/2015 06:16:08.179 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 195144106
+08/18/2015 06:19:53.566 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 195154106
+08/18/2015 06:26:10.924 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"sell","sequence":195159318,"order_id":"8b036b89-db38-48bc-b4eb-875562fdce23","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T23:22:00.100302Z"}
+08/18/2015 06:26:11.140 Error deserializing websocket message JSON.  Message: 051-5538-46dc-be5c-ba1d88a2c0d7","reason":"canceled","product_id":"BTC-USD","time":"2015-08-18T23:26:13.081121Z","price":"248.26","remaining_size":"8.48"}
+08/18/2015 06:33:24.268 Error removing order from "sell" order book.  OID: 07cced88-88a5-4eb9-aed6-7683cc043485 Price: 245.14
+08/18/2015 06:41:07.165 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":195213489,"order_id":"ce40d93e-0b48-49eb-9659-809b0d59740f","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T23:41:25.352215Z"}
+08/18/2015 06:47:25.376 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"sell","sequence":195233689,"order_id":"6f6ef9d7-6c4f-4d69-a0c5-023007c639b3","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T23:47:43.536152Z"}
+08/18/2015 06:56:15.211 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":195253348,"order_id":"4e4b27c7-1278-4dad-bf9a-9e6619056dec","reason":"filled","product_id":"BTC-U08/21/2015 05:15:35.230 Error: sequence number missing.  Number: 202894289 expected: 202894284
+08/21/2015 05:36:14.757 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 202932868
+08/21/2015 05:37:54.286 Error removing order from "sell" order book.  OID: c19c0b8d-c902-4529-a5e8-30ab545dee3a Price: 233.15
+08/21/2015 05:44:28.804 Error: sequence number missing.  Number: 202948238 expected: 202948237
+08/21/2015 06:02:14.993 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 202999085
+08/21/2015 06:05:37.965 Error getting order book.
+08/21/2015 06:05:37.967 Error getting new order book JSON during scheduled reload.  Waiting 60 seconds to try again.
+08/21/2015 06:06:44.222 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203009085
+08/21/2015 06:12:46.870 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203019085
+08/21/2015 06:16:34.013 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203029085
+08/21/2015 06:21:47.950 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203039085
+08/21/2015 06:27:34.833 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203049085
+08/21/2015 06:33:51.339 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":203049379,"order_id":"e7c4b4ca-a88c-44cb-9551-143d4dc19a8b","order_type":"limit","size":"0.0537ng_size":"0.05376843","product_id":"BTC-USD","time":"2015-08-21T23:27:47.744939Z"}
+08/21/2015 06:33:51.377 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":203049379,"order_id":"e7c4b4ca-a88c-44cb-9551-143d4dc19a8b","order_type":"limit","size":"0.0537ng_size":"0.05376843","product_id":"BTC-USD","time":"2015-08-21T23:27:47.744939Z"}
+08/21/2015 06:41:58.636 Error deserializing websocket message JSON.  Message: de":"buy","sequence":203075432,"order_id":"212c1c4e-5c3f-4f15-b19e-063591ad1dfd","reason":"canceled","product_id":"BTC-USD","time":"2015-08-21T23:41:58.507731Z","price":"232.15","remaining_size":"0.51182788"}
+08/21/2015 06:49:55.167 Error deserializing websocket message JSON.  Message: {"type":"open","sequence":203090758,"side":"sell","price":"232.5","order_id":"8c0e6f14-1048-4e62-97f7-7ea5f7b1859c","remain047506","price":"232.5","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-21T23:49:56.214082Z"}
+08/21/2015 07:00:03.178 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203110561
+08/21/2015 07:02:04.290 Error getting order book.
+08/21/2015 07:02:04.295 Error getting new order book JSON during scheduled reload.  Waiting 60 seconds to try again.
+08/21/2015 07:04:39.131 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203120561
+08/21/2015 07:09:13.233 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203130561
+08/21/2015 07:14:09.036 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203140561
+08/21/2015 07:16:12.421 Error removing order from "sell" order book.  OID: 6d055687-f13d-42db-8bbb-f5ce397ce53b Price: 233.19
+08/21/2015 07:16:12.461 Error deserializing websocket message JSON.  Message: 4-8d2d-4516-a1d3-84cc7679fb54","reason":"canceled","product_id":"BTC-USD","time":"2015-08-22T00:15:21.118303Z","price":"233.36","remaining_size":"1.53"}
+08/21/2015 07:28:41.516 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203170012
+08/21/2015 07:32:16.176 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203180012
+08/21/2015 07:37:26.466 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203190012
+08/21/2015 07:37:26.758 Error: sequence number missing.  Number: 203195502 expected: 203195499
+08/21/2015 07:44:24.572 Error: sequence number missing.  Number: 203215750 expected: 203215748
+08/21/2015 07:54:47.879 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203244039
+08/21/2015 07:58:36.657 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203254039
+08/21/2015 08:01:38.780 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203264039
+08/21/2015 08:05:33.989 Error getting order book.
+08/21/2015 08:05:33.994 Error getting new order book JSON during scheduled reload.  Waiting 60 seconds to try again.
+08/21/2015 08:06:40.231 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203274039
+08/21/2015 08:06:40.527 Error: sequence number missing.  Number: 203280102 expected: 203280101
+08/21/2015 08:12:37.805 Error: sequence number missing.  Number: 203298552 expected: 203298551
+08/21/2015 08:23:39.613 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203326680
+08/21/2015 08:27:15.455 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203336680
+08/21/2015 08:33:51.989 Error deserializing websocket message JSON.  Message: {"type":"done","order_type":"limit","side":"sell","sequence":203345137,"order_id":"0c915f36-4e23-4b98-97ab-b42403836f42","reason":"canceled","product_id":"BTC-USD","time":"2015-08-22T01:30:02.339493Z","price":"234.2"2.310136Z"}
+08/21/2015 08:33:52.032 Error deserializing websocket message JSON.  Message: {"type":"done","order_type":"limit","side":"sell","sequence":203345137,"order_id":"0c915f36-4e23-4b98-97ab-b42403836f42","reason":"canceled","product_id":"BTC-USD","time":"2015-08-22T01:30:02.339493Z","price":"234.2"2.310136Z"}
+08/21/2015 08:44:00.109 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203390340
+08/21/2015 08:48:01.211 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203400340
+08/21/2015 08:48:01.498 Error: sequence number missing.  Number: 203402791 expected: 203402789
+08/21/2015 08:58:46.802 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":203431509,"order_id":"b28bf455-2065-4041-8c53-eacb6b3c0c8d","order_type":"limit","sia","remaining_size":"0.05764267","product_id":"BTC-USD","time":"2015-08-22T01:58:47.521285Z"}
+08/21/2015 09:02:01.786 Error getting order book.
+08/21/2015 09:05:16.119 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203450475
+08/21/2015 09:09:06.998 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":203453981,"order_id":"252d8949-76f6-49aa-a86d-b3c12a08edd0","order_type"-507681cc7978","remaining_size":"7.7594","product_id":"BTC-USD","time":"2015-08-22T02:06:37.398767Z"}
+08/21/2015 09:09:07.043 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":203453981,"order_id":"252d8949-76f6-49aa-a86d-b3c12a08edd0","order_type"-507681cc7978","remaining_size":"7.7594","product_id":"BTC-USD","time":"2015-08-22T02:06:37.398767Z"}
+08/21/2015 09:18:14.364 Error deserializing websocket message JSON.  Message: {"type":"match","sequence":203483376,"trade_id":3283392,"maker_order_id":"58e2e6df-d223-41ab-b51f-fb9c44b612fa","taker_order_id":"e7825287-0a30-4cad-bec2-a371c4894a0c","side":"sell",2:18:15.44799Z","price":"234.71","remaining_size":"0"}
+08/21/2015 09:24:32.699 Error deserializing websocket message JSON.  Message: {"type":"open","sequence":203502851,"side":"buy","price":"234.74","order_id":"71d490b7-5abe-4192-a33a-a8acadc943e0","remaining_size":"0.43433717","product_id":"BTC-USD","time":"2015-0id":"BTC-USD","time":"2015-08-22T02:24:33.636311Z"}
+08/21/2015 09:34:02.848 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203529209
+08/21/2015 09:37:26.679 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203539209
+08/21/2015 09:40:29.437 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203549209
+08/21/2015 09:44:29.367 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203559209
+08/21/2015 09:46:30.806 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203569209
+08/21/2015 09:51:32.425 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203579209
+08/21/2015 09:53:34.222 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203589209
+08/21/2015 09:58:33.975 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"limit","side":"buy","sequence":203594850,"order_id":"1d10d265-4e48-419a-8618-a87bc27ba601","reason":"canceled","product_id":"BTC-USD","time":"2015-08-22T02:55:20.775218Z"}
+08/21/2015 09:58:34.049 Error deserializing websocket message JSON.  Message: "BTC-USD","time":"2015-08-22T02:55:20.794893Z","price":"234.2","remaining_size":"0.01"}
+08/21/2015 10:05:33.914 Error getting order book.
+08/21/2015 10:08:36.650 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203644590
+08/21/2015 10:12:42.459 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203654590
+08/21/2015 10:15:33.901 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203664590
+08/21/2015 10:19:45.526 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203674590
+08/21/2015 10:24:17.535 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203684590
+08/21/2015 10:26:45.363 Error parsing "open" websocket message amount and price.  Message: {"type":"open","sequence":203688077,"side":"sell","price":"235.22","order_id":"9758590b4","order_type":"limit","size":"0.10060976","price":"235.22","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-22T03:25:54.434003Z"}
+08/21/2015 10:26:45.415 Error deserializing websocket message JSON.  Message: 433b6-1b11-4c80-9299-9a7abb8590b4","remaining_size":"0.10060976","product_id":"BTC-USD","time":"2015-08-22T03:25:54.43409Z"}
+08/21/2015 10:33:46.752 Error: sequence number missing.  Number: 203702923 expected: 203702921
+08/21/2015 10:45:20.778 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203726085
+08/21/2015 10:50:49.771 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203736085
+08/21/2015 10:54:59.849 Error: sequence number missing.  Number: 203743315 expected: 203743308
+08/21/2015 11:01:58.813 Error getting order book.
+08/21/2015 11:09:29.228 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203764239
+08/21/2015 11:13:36.615 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203774239
+08/21/2015 11:17:05.870 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203784239
+08/21/2015 11:23:42.188 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203794239
+08/21/2015 11:23:42.336 Error deserializing websocket message JSON.  Message: ","order_type":"limit","size":"2.21","price":"234.22","side":"sell","funds":null,"product_id":"BTC-USD","time":"2015-08-22T04:21:53.461691Z"}
+08/21/2015 11:34:23.266 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203836530
+08/21/2015 11:38:43.414 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203846530
+08/21/2015 11:44:51.267 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":203855534,"order_id":"150709f2203855533,"order_id":"4419e600-fe3e-4c31-a350-7e90482def97","reason":"filled","product_id":"BTC-USD","time":"2015-08-22T04:42:21.183062Z","price":"240.98","remaining_size":"0"}
+08/21/2015 11:44:51.320 Error deserializing websocket message JSON.  Message: {"type":"received","sequence":203855534,"order_id":"150709f2203855533,"order_id":"4419e600-fe3e-4c31-a350-7e90482def97","reason":"filled","product_id":"BTC-USD","time":"2015-08-22T04:42:21.183062Z","price":"240.98","remaining_size":"0"}
+08/21/2015 11:51:49.920 Error: sequence number missing.  Number: 203882981 expected: 203882979
+08/22/2015 12:02:58.941 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203913049
+08/22/2015 12:05:55.991 Error getting order book.
+08/22/2015 12:05:55.999 Error getting new order book JSON during scheduled reload.  Waiting 60 seconds to try again.
+08/22/2015 12:07:01.761 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203923049
+08/22/2015 12:10:06.054 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203933049
+08/22/2015 12:15:23.791 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203943049
+08/22/2015 12:20:07.838 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203953049
+08/22/2015 12:22:57.938 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203963049
+08/22/2015 12:27:10.843 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 203973049
+08/22/2015 12:27:11.093 Error: sequence number missing.  Number: 203973925 expected: 203973924
+08/22/2015 12:38:42.668 Error deserializing websocket message JSON.  Message: f7e","product_id":"BTC-USD","time":"2015-08-22T05:37:36.109986Z"}
+08/22/2015 12:44:49.953 Max sequence number from last reload encountered.  Reloading order book.  Sequence = 204016601
+08/22/2015 12:48:57.473 Error deserializing websocket message JSON.  Message: {"type":"done","order_type":"limit","side":"sell","sequence":204026187,"order_id":"b7626da4-e1a8-4573-bcc1-24520045303e","reason":"canceled","product_id":"BTC-USD","time":"2015-08-22T05:48:58.626951Z","price":"231.96",8.582858Z"}

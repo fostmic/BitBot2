@@ -1,0 +1,30 @@
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\bin\Debug\BitBot.exe.config
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\bin\Debug\BitBot.exe
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\bin\Debug\BitBot.pdb
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.ControlControl.resources
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.MainWindow.resources
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.Properties.Resources.resources
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.StatusControl.resources
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.TestControl.resources
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.csproj.GenerateResource.Cache
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.exe
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.pdb
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.Settings.resources
+C:\Users\lesmu_000\documents\visual studio 2013\Projects\BitBot\BitBot\obj\Debug\BitBot.csprojResolveAssemblyReference.cache
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\bin\Debug\BitBot.exe.config
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.exe
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.pdb
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\bin\Debug\BitBot.exe
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\bin\Debug\BitBot.pdb
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.csprojResolveAssemblyReference.cache
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.ControlControl.resources
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.MainWindow.resources
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.Properties.Resources.resources
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.Settings.resources
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.StatusControl.resources
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.TestControl.resources
+C:\Users\lesmu_000\Desktop\drop box\BitBot\BitBot\obj\Debug\BitBot.csproj.GenerateResource.Cache

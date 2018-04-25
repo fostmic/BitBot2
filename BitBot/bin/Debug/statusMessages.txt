@@ -1,0 +1,128 @@
+08/18/2015 06:04:58.313 Connecting to Market Data Websocket Stream...
+
+Connected. 
+
+08/18/2015 06:04:58.442 Loading order book...
+
+08/18/2015 06:04:59.301 Order book loading complete.  Sequence = 195118105
+
+08/18/2015 06:04:59.317 Beginning Message Queue Processing
+
+08/18/2015 06:05:04.474 Done with Message Queue Processing.  374 messages processed.
+
+08/18/2015 06:06:01.207 Error deserializing websocket message JSON.  Message: {"type":"done","order_type":"limit","side":"buy","sequence":195120919,"order_id":"958a6946-b036-473b-bf56-7b9a78bab486","reason":"canceled","product_id":"BTC-USD","time":"2015-08-18T23:06:19.233514Z","price":"249.24","remain"product_id":"BTC-USD","time":"2015-08-18T23:06:19.199019Z"}
+
+08/18/2015 06:06:01.212 Waiting 360.2302834 seconds to reload order book
+
+08/18/2015 06:12:01.500 Loading order book...
+
+08/18/2015 06:12:01.960 Order book loading complete.  Sequence = 195134106
+
+08/18/2015 06:12:01.975 Beginning Message Queue Processing
+
+08/18/2015 06:12:02.002 Done with Message Queue Processing.  47 messages processed.
+
+08/18/2015 06:16:08.191 Testing and Reloading Orderbook.
+
+08/18/2015 06:16:08.192 Done waiting for message processing.
+
+08/18/2015 06:16:08.195 Waiting 176.3057748 seconds to reload order book
+
+08/18/2015 06:19:05.099 Order book reload complete. 
+
+08/18/2015 06:19:05.102 Beginning Message Queue Processing through sequence number 195151779
+
+08/18/2015 06:19:09.115 Message Queue Processing complete. 7673 messages processed. End of queue reached. 
+
+08/18/2015 06:19:09.226 Order Book Test Complete.  Resutlt: PASS
+
+08/18/2015 06:19:09.228 Beginning Message Queue Processing
+
+08/18/2015 06:19:09.332 Done with Message Queue Processing.  177 messages processed.
+
+08/18/2015 06:19:53.566 Testing and Reloading Orderbook.
+
+08/18/2015 06:19:53.568 Done waiting for message processing.
+
+08/18/2015 06:19:53.573 Waiting 374.0680749 seconds to reload order book
+
+08/18/2015 06:26:08.085 Order book reload complete. 
+
+08/18/2015 06:26:08.088 Beginning Message Queue Processing through sequence number 195171443
+
+08/18/2015 06:26:10.924 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"sell","sequence":195159318,"order_id":"8b036b89-db38-48bc-b4eb-875562fdce23","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T23:22:00.100302Z"}
+
+08/18/2015 06:26:10.926 Failed Message Processing during Queue Processing to Sequence Number.  Queue Processing Aborted. 
+
+08/18/2015 06:26:10.927 Skipping Order Book Comparison Test and Reloading Order Book.
+
+08/18/2015 06:26:10.940 Beginning Message Queue Processing
+
+08/18/2015 06:26:11.140 Error deserializing websocket message JSON.  Message: 051-5538-46dc-be5c-ba1d88a2c0d7","reason":"canceled","product_id":"BTC-USD","time":"2015-08-18T23:26:13.081121Z","price":"248.26","remaining_size":"8.48"}
+
+08/18/2015 06:26:11.142 Failed Message Processing during Complete Queue Processing.  Queue Processing Aborted. 
+
+08/18/2015 06:26:11.144 Waiting 419.52583 seconds to reload order book
+
+08/18/2015 06:33:11.910 Loading order book...
+
+08/18/2015 06:33:12.301 Order book loading complete.  Sequence = 195191654
+
+08/18/2015 06:33:12.319 Beginning Message Queue Processing
+
+08/18/2015 06:33:12.329 Done with Message Queue Processing.  17 messages processed.
+
+08/18/2015 06:33:24.268 Error removing order from "sell" order book.  OID: 07cced88-88a5-4eb9-aed6-7683cc043485 Price: 245.14
+
+08/18/2015 06:33:24.273 Waiting 410.6368866 seconds to reload order book
+
+08/18/2015 06:40:14.922 Loading order book...
+
+08/18/2015 06:40:15.256 Order book loading complete.  Sequence = 195210680
+
+08/18/2015 06:40:15.282 Beginning Message Queue Processing
+
+08/18/2015 06:40:15.288 Done with Message Queue Processing.  14 messages processed.
+
+08/18/2015 06:41:07.165 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":195213489,"order_id":"ce40d93e-0b48-49eb-9659-809b0d59740f","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T23:41:25.352215Z"}
+
+08/18/2015 06:41:07.170 Waiting 370.7517618 seconds to reload order book
+
+08/18/2015 06:47:17.961 Loading order book...
+
+08/18/2015 06:47:18.301 Order book loading complete.  Sequence = 195233216
+
+08/18/2015 06:47:18.318 Beginning Message Queue Processing
+
+08/18/2015 06:47:18.333 Done with Message Queue Processing.  43 messages processed.
+
+08/18/2015 06:47:25.376 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"sell","sequence":195233689,"order_id":"6f6ef9d7-6c4f-4d69-a0c5-023007c639b3","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T23:47:43.536152Z"}
+
+08/18/2015 06:47:25.381 Waiting 415.5802118 seconds to reload order book
+
+08/18/2015 06:54:21.324 Loading order book...
+
+08/18/2015 06:54:21.637 Order book loading complete.  Sequence = 195249757
+
+08/18/2015 06:54:21.651 Beginning Message Queue Processing
+
+08/18/2015 06:54:21.668 Done with Message Queue Processing.  29 messages processed.
+
+08/18/2015 06:56:15.211 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"buy","sequence":195253348,"order_id":"4e4b27c7-1278-4dad-bf9a-9e6619056dec","reason":"filled","product_id":"BTC-USD","time":"2015-08-18T23:56:33.396254Z"}
+
+08/18/2015 06:56:15.218 Waiting 309.1057034 seconds to reload order book
+
+08/18/2015 07:01:24.422 Loading order book...
+
+08/18/2015 07:01:24.517 Error getting order book.
+
+08/18/2015 07:01:24.906 Order book loading complete.  Sequence = 195261777
+
+08/18/2015 07:01:24.920 Beginning Message Queue Processing
+
+08/18/2015 07:01:24.922 Done with Message Queue Processing.  3 messages processed.
+
+08/18/2015 07:02:39.131 Error parsing "done" websocket message price.  Message: {"type":"done","order_type":"market","side":"sell","sequence":195264179,"order_id":"f75c7a6a-1165-4239-b869-ea55d173bacc","reason":"filled","product_id":"BTC-USD","time":"2015-08-19T00:02:57.330761Z"}
+
+08/18/2015 07:02:39.136 Waiting 348.2853856 seconds to reload order book
+
